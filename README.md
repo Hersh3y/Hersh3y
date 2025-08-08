@@ -4,6 +4,8 @@ Currently, I’m exploring full-stack development and AI.
 
 ## 🚀 About Me
 - 🎓 **First-Generation Computer Science student @ Clemson University '28**
+- 🤖 AI Research Assistant for Watt AI Program
+- 👨‍🏫 Undergraduate Teaching Assistant for **Programming in Python**
 - 🛠 Interested in **Full-Stack Development, AI, Cybersecurity, and some Cloud Computing**
 
 <!--
