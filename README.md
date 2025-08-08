@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there, I'm Harshal Patel 👋
+Welcome to my GitHub profile! I love building cool projects, learning new technologies, and solving problems.  
+Currently, I’m exploring full-stack development and AI.
+
+## 🚀 About Me
+- 🎓 **First-Generation Computer Science student @ Clemson University '28**
+- 🛠 Interested in **Full-Stack Development, AI, Cybersecurity, and some Cloud Computing**
 
 <!--
 **Hersh3y/Hersh3y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
