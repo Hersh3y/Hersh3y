@@ -4,17 +4,16 @@
 **AI Research Assistant • Full-Stack Developer • Teaching Assistant**  
 **Computer Science @ Clemson University ’28 • GPA: 4.0**
 
-I love building AI systems, full-stack apps, and solving real-world problems through code.  
+I love building full-stack apps, AI systems, and solving real-world problems through code.  
 I’ve won multiple hackathons, worked on research using vision-language models, and I enjoy teaching other students how to code.
 
 ---
 
 ## 🚀 About Me
 - 🎓 **First-Generation Computer Science Student @ Clemson University**
-- 🤖 **AI Research Assistant** — Vision-Language Models & Video Understanding  
+- 🤖 **AI Research Assistant** — Vision-based LLMs
 - 👨‍🏫 **Undergraduate Teaching Assistant** — Programming in Python  
-- 🛠️ Interested in **AI Engineering, Full-Stack Development, and Applied ML**  
-- ☁️ Learning more about **Cloud, HPC, and scalable ML systems**  
+- 🛠️ Interested in **Full-Stack Development, AI Engineering, and Cloud**  
 
 ---
 
