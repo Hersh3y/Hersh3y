@@ -2,7 +2,7 @@
 
 **Software Engineer Co-op @ MITRE (Spring 2026)**  
 **AI Research Assistant • Full-Stack Developer • Teaching Assistant**  
-**Computer Science @ Clemson University ’28 • GPA: 4.0**
+**CS + AI + Finance @ Clemson University ’28 • GPA: 4.0**
 
 I love building full-stack apps, AI systems, and solving real-world problems through code.  
 I’ve won multiple hackathons, worked on research using vision-language models, and I enjoy teaching other students how to code.
