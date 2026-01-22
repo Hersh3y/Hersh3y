@@ -20,8 +20,8 @@ I’ve won multiple hackathons, worked on AI research using vision LLMs, and I e
 ## 🧰 Technical Skills
 
 **Languages:** Python, C/C++, JavaScript, TypeScript, SQL, HTML/CSS  
-**Frameworks/Libraries:** Flask, React.js, React Native, PyTorch, NumPy, Pandas, Leaflet.js  
-**Tools and Platforms:** Git, GitLab Jira, Vercel, PostgreSQL, Firebase, Linux, Jupyter, HPC, Hugging Face, REST APIs  
+**Frameworks/Libraries:** Flask, Node.js, React.js, React Native, PyTorch, NumPy, Pandas, Leaflet.js  
+**Tools and Platforms:** Git, GitLab, Jira, Vercel, PostgreSQL, Firebase, Linux, Jupyter, HPC, Hugging Face, REST APIs  
 
 ---
 
