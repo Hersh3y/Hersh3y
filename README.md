@@ -1,27 +1,27 @@
 # 👋 Hi, I'm **Harshal Patel**
 
 **Software Engineer Co-op @ MITRE (Spring 2026)**  
-**AI Research Assistant • Full-Stack Developer • Teaching Assistant**  
+**Full-Stack Developer • AI/CV Researcher • Teaching Assistant**  
 **CS + AI + Finance @ Clemson University ’28 • GPA: 4.0**
 
 I love building full-stack apps, AI systems, and solving real-world problems through code.  
-I’ve won multiple hackathons, worked on research using vision-language models, and I enjoy teaching other students how to code.
+I’ve won multiple hackathons, worked on AI research using vision LLMs, and I enjoy teaching other students how to code.
 
 ---
 
 ## 🚀 About Me
 - 🎓 **First-Generation Computer Science Student @ Clemson University**
-- 🤖 **AI Research Assistant** — Vision-based LLMs
+- 🤖 **AI/CV Researcher** — Vision-based LLMs
 - 👨‍🏫 **Undergraduate Teaching Assistant** — Programming in Python  
-- 🛠️ Interested in **Full-Stack Development, AI Engineering, and Cloud**  
+- 🛠️ Interested in **Full-Stack Development, AI Engineering, DevOps, and Cloud**  
 
 ---
 
 ## 🧰 Technical Skills
 
 **Languages:** Python, C/C++, JavaScript, TypeScript, SQL, HTML/CSS  
-**Frameworks/Libraries:** Flask, React.js, React Native, PyTorch, NumPy, Pandas, SQLAlchemy, Leaflet.js  
-**Tools:** Git, Vercel, PostgreSQL, Firebase, Linux, Jupyter, HPC, Hugging Face, REST APIs  
+**Frameworks/Libraries:** Flask, React.js, React Native, PyTorch, NumPy, Pandas, Leaflet.js  
+**Tools and Platforms:** Git, GitLab Jira, Vercel, PostgreSQL, Firebase, Linux, Jupyter, HPC, Hugging Face, REST APIs  
 
 ---
 
