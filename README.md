@@ -13,7 +13,7 @@ I’ve won multiple hackathons, worked on AI research using vision LLMs, and I e
 
 **Languages:** Python, C/C++, JavaScript, TypeScript, SQL, HTML/CSS  
 **Frameworks/Libraries:** Flask, Node.js, Next.js, React Native, PyTorch, NumPy, Pandas, Leaflet.js  
-**Tools and Platforms:** Git, GitLab, Jira, Postman API, Vercel, PostgreSQL, Firebase, Linux, Jupyter, Hugging Face, HPC
+**Tools and Platforms:** Git, Docker, Postman API, Jira, GitLab, PostgreSQL, Vercel, Firebase, Linux, Jupyter, Hugging Face, HPC
 
 ---
 
