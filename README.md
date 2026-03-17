@@ -1,6 +1,7 @@
 # Hi, I'm Harshal Patel**
 
-**Software Engineer Co-op @ MITRE** **Full-Stack Developer • AI/CV Researcher • Teaching Assistant** 
+**Software Engineer Co-op @ MITRE** 
+**Full-Stack Developer • AI/CV Researcher • Teaching Assistant** 
 **CS + AI + Finance @ Clemson University ’28** 
 
 Project I'm currently working on: Vision AI integration (YOLOv8n) in camera of a high-speed (almost 300 MPH) drone.
@@ -9,7 +10,7 @@ Project I'm currently working on: Vision AI integration (YOLOv8n) in camera of a
 
 ## Technical Skills
 
-### Languages
+**Languages:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
