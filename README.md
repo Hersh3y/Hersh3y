@@ -45,7 +45,6 @@
 ---
 
 **Connect With Me:**
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-252525?style=flat-square&logo=googlechrome&logoColor=white)](https://harshalpatel.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshal-a-patel)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
