@@ -1,8 +1,8 @@
 # Hi, I'm Harshal Patel**
 
-**Software Engineer Co-op @ MITRE** 
-**Full-Stack Developer • AI/CV Researcher • Teaching Assistant** 
-**CS + AI + Finance @ Clemson University ’28** 
+**Software Engineer Co-op @ MITRE**  
+**Full-Stack Developer • AI/CV Researcher • Teaching Assistant**  
+**CS + AI + Finance @ Clemson University ’28**  
 
 Project I'm currently working on: Vision AI integration (YOLOv8n) in camera of a high-speed (almost 300 MPH) drone.
 
@@ -21,7 +21,7 @@ Project I'm currently working on: Vision AI integration (YOLOv8n) in camera of a
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### Frameworks & Libraries
+**Frameworks & Libraries:**
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -31,7 +31,7 @@ Project I'm currently working on: Vision AI integration (YOLOv8n) in camera of a
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Leaflet.js](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
 
-### Tools & Platforms
+**Tools & Platforms:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
@@ -46,7 +46,7 @@ Project I'm currently working on: Vision AI integration (YOLOv8n) in camera of a
 
 ---
 
-## Connect With Me
+**Connect With Me:**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-252525?style=flat-square&logo=googlechrome&logoColor=white)](https://harshalpatel.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshal-a-patel)
