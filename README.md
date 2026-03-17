@@ -44,6 +44,12 @@
 
 ---
 
+### 📊 My GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hersh3y&layout=compact&theme=radical&hide=html,css)
+
+---
+
 **Connect With Me:**
 [![Portfolio](https://img.shields.io/badge/Portfolio-252525?style=flat-square&logo=googlechrome&logoColor=white)](https://harshalpatel.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshal-a-patel)
