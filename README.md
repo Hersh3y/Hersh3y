@@ -46,7 +46,7 @@
 
 ### 📊 My GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hersh3y&layout=pie&theme=radical&hide=html,css,makefile,mako)
+![Views](https://komarev.com/ghpvc/?username=Hersh3y&color=blueviolet)
 
 ---
 
