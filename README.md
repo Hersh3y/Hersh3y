@@ -4,6 +4,8 @@
 **Full-Stack Developer • AI/CV Researcher • Teaching Assistant**  
 **CS + AI + Finance @ Clemson University ’28**  
 
+![Views](https://komarev.com/ghpvc/?username=Hersh3y&color=blue)  
+
 ---
 
 ## Technical Skills
@@ -41,12 +43,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
----
-
-### 📊 My GitHub Stats
-
-![Views](https://komarev.com/ghpvc/?username=Hersh3y&color=blueviolet)
 
 ---
 
