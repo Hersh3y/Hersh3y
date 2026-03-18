@@ -45,6 +45,10 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
+### 📊 Profile Summary
+
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hersh3y&theme=radical)
+
 ---
 
 **Connect With Me:**
