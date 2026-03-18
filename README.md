@@ -47,7 +47,7 @@
 
 ### 📊 Profile Summary
 
-![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hersh3y&theme=dracula)
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hersh3y&theme=onedark)
 
 ---
 
