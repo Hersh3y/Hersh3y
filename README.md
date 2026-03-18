@@ -47,8 +47,6 @@
 
 ### 📊 Profile Summary
 
-![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hersh3y&theme=tokyonight)
-
 ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hersh3y&theme=radical)
 
 ---
