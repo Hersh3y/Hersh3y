@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Harshal Patel**
 
 **Software Engineer Co-op @ MITRE**  
-**Full-Stack Developer • AI/CV Researcher • Teaching Assistant**  
+**AI/ML Fellow @ Break Through Tech**  
 **CS + AI + Finance @ Clemson University ’28**  
 
 ![Views](https://komarev.com/ghpvc/?username=Hersh3y&color=blue)  
