@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Harshal Patel**
 
 **Previous Software Engineer Co-op @ MITRE**  
-**AI Studio Fellow @ Amazon**  
+**Machine Learning Engineer Fellow @ Amazon**  
 **CS + AI + Finance @ Clemson University ’28**  
 
 ![Views](https://komarev.com/ghpvc/?username=Hersh3y&color=blue)  
@@ -65,7 +65,6 @@
 ---
 
 **Connect With Me:**
-[![Portfolio](https://img.shields.io/badge/Portfolio-252525?style=flat-square&logo=googlechrome&logoColor=white)](https://harshalpatel.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshal-a-patel)
 
 <!--
