@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Harshal Patel**
 
-**Machine Learning Engineer Fellow @ Amazon**  
+**AI/ML Fellow @ Amazon**  
 **Previous Software Engineer Co-op @ MITRE**  
 **CS + AI + Finance @ Clemson University ’28**  
 
