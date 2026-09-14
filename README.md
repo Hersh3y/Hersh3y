@@ -3,6 +3,7 @@
 **AI/ML Fellow @ Amazon**  
 **Previous Software Engineer Co-op @ MITRE**  
 **CS + AI + Finance @ Clemson University ’28**  
+**2x Hackathon Winner** 
 
 ![Views](https://komarev.com/ghpvc/?username=Hersh3y&color=blue)  
 
