@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Harshal Patel**
+# 👋 Hi, I'm **Harshal**
 
 **AI/ML Fellow @ Amazon**  
 **Previous Software Engineer Co-op @ MITRE**  
