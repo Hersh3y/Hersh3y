@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Harshal**
 
-**AI/ML Fellow @ Amazon**  
 **Previous Software Engineer Co-op @ MITRE**  
+**Break Through Tech AI Fellow @ Amazon**  
 **CS + AI + Finance @ Clemson University ’28**  
 **2x Hackathon Wins** 
 
