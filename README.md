@@ -81,6 +81,7 @@
 
 ---
 
+## 📫 How to Reach Me:
 **Connect With Me:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshal-a-patel)  
 **Email**: hpatel2@clemson.edu
