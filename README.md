@@ -70,8 +70,14 @@
 
 ### [GoHelpMe](https://github.com/Hersh3y/GoHelpMe)
 - **Role & Focus**: Mobile & Full-Stack Development
-- **Overview**: Cross-platform community aid application developed for CUhackit to streamline peer assistance and resource sharing.
-- **Tech Stack**: `TypeScript` `Node.js` `React Native` `Expo` 
+- **Overview**: A full-stack app that uses crowdsourcing and real-time mapping to quickly and efficiently connect those in need with those who can help.
+- **Tech Stack**: `TypeScript` `Node.js` `React Native` `Expo`
+
+### [Commercial Analysis](https://github.com/Hersh3y/Commercial-Analysis)
+- **Role & Focus**: Multimodal AI & Video Analytics
+- **Overview**: Automated video commercial analysis pipeline utilizing Whisper Large V3 for speech-to-text audio transcription and Qwen2.5-VL-72B for visual recognition.
+- **Key Details**: Evaluated 32 commercial videos across celebrity recognition (81.25% accuracy), brand and theme extraction (100% accuracy), and demographic analysis.
+- **Tech Stack**: `Python` `Whisper Large V3` `Qwen2.5-VL` `Matplotlib`
 
 ---
 
