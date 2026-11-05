@@ -1,5 +1,6 @@
 # 👋 Hi, I'm **Harshal**
 
+**Aspiring Software Engineer**
 **Previous Software Engineer Co-op @ MITRE**  
 **Break Through Tech AI Fellow @ Amazon**  
 **CS + AI + Finance @ Clemson University ’28**  
@@ -41,7 +42,7 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-**AI/ML/Data Tools:**
+**Data & ML Tools:**
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
