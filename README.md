@@ -10,7 +10,7 @@
 
 ---
 
-## Technical Skills
+### Technical Skills
 
 **Languages:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -60,7 +60,7 @@
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
 ### [Amazon Churn Detection & Behavioral Drift Pipeline](https://github.com/Break-Through-Tech/Amazon-1B-discovering-customer-lifecycle-states-and-behavioral-drift-for-early-churn-detection)
 - **Role & Focus**: Python, Applied AI, Feature Engineering & Hyperparameter Tuning
