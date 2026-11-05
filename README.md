@@ -77,7 +77,7 @@
 - **Role & Focus**: Multimodal AI & Video Analytics
 - **Overview**: Automated video commercial analysis pipeline utilizing Whisper Large V3 for speech-to-text audio transcription and Qwen2.5-VL-72B for visual recognition.
 - **Key Details**: Evaluated 32 commercial videos across celebrity recognition (81.25% accuracy), brand and theme extraction (100% accuracy), and demographic analysis.
-- **Tech Stack**: `Python` `Whisper Large V3` `Qwen2.5-VL` `Matplotlib`
+- **Tech Stack**: `Python` `PyTorch` `Hugging Face` `Whisper Large V3` `Qwen2.5-VL` 
 
 ---
 
