@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Harshal**
 
-**Aspiring Software Engineer**
+**Aspiring Software Engineer**  
 **Previous Software Engineer Co-op @ MITRE**  
 **Break Through Tech AI Fellow @ Amazon**  
 **CS + AI + Finance @ Clemson University ’28**  
