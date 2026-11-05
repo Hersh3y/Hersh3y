@@ -60,7 +60,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### [Amazon Churn Detection & Behavioral Drift Pipeline](https://github.com/Break-Through-Tech/Amazon-1B-discovering-customer-lifecycle-states-and-behavioral-drift-for-early-churn-detection)
 - **Role & Focus**: Python, Applied AI, Feature Engineering & Hyperparameter Tuning
