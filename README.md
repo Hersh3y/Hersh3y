@@ -60,6 +60,21 @@
 
 ---
 
+## 🚀 Featured Projects
+
+### [Amazon Churn Detection & Behavioral Drift Pipeline](https://github.com/Break-Through-Tech/Amazon-1B-discovering-customer-lifecycle-states-and-behavioral-drift-for-early-churn-detection)
+- **Role & Focus**: Python, Applied AI, Feature Engineering & Hyperparameter Tuning
+- **Overview**: Early-warning machine learning system built during Break Through Tech AI Studio with an Amazon challenge advisor to detect customer churn and behavioral drift from transactional e-commerce data.
+- **Key Details**: Engineered cumulative purchase frequency, monetary recency, and drift metrics on the Online Retail II dataset with a strict 90-day inactivity threshold to eliminate lookahead bias.
+- **Tech Stack**: `Python` `scikit-learn` `Pandas` `NumPy` `Jupyter`
+
+### [GoHelpMe](https://github.com/Hersh3y/GoHelpMe)
+- **Role & Focus**: Mobile & Full-Stack Development
+- **Overview**: Cross-platform community aid application developed for CUhackit to streamline peer assistance and resource sharing.
+- **Tech Stack**: `TypeScript` `Node.js` `React Native` `Expo` 
+
+---
+
 **Connect With Me:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshal-a-patel)
 
